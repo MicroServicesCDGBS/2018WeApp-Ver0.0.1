@@ -1,1 +1,1 @@
-Hello, Slack tests.
+Slack Connection Tests.
